@@ -63,6 +63,7 @@
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwaksuyeon&layout=compact">
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=gwaksuyeon&show_icons=true">
 
 </div>
